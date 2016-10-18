@@ -7,3 +7,5 @@ magic stick, magic sword, magic ring, magic hat, Pigeon
 Comes to open session, magic weapon at sell with group price! 
 
 Contacts: one person company’ owner email: satileW@gmail.com /tel:408646**** /time available: 9:00am ~ 5:00pm
+
+ ssh -i /home/kashif/serverkey.pem  ubuntu@ec2-54-227-242-179.compute-1.amazonaws.com

@@ -20,7 +20,6 @@ magic stick, magic sword, magic ring, magic hat, Pigeon</li>
 <img src = "./magicteller.jpg" alt = "Harry">
 <p>    </p>
  <?php 
-    //echo $image;
     echo fread($myfile,filesize("./mydata.txt"));
     fclose($myfile);
  ?>
