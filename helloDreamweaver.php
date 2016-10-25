@@ -18,6 +18,7 @@
 <ol>next coming: <a href="about.html">about</a></ol>
 <ol>third coming: <a href="products.html">products</a></ol>
 <ol>forth coming: <a href="login.html">login in</a></ol>
+<ol>firth coming: <a href="userSection.html">User section</a></ol>
 <ol>last coming: <a href="contacts.php">my contacts</a></ol>
 
 <article class="product sales">Enjoy our products~</article>
@@ -38,7 +39,7 @@
     </script>
 <footer class="tx">Thank List: my professor/ my teammates / my goodfriends
 </footer>
-<!-- #BeginDate format:fcAm3a -->Tuesday, 10/18/2016 2:38 PM<!-- #EndDate -->
+
 </body>
 
 </html>
