@@ -50,7 +50,7 @@
 			$timearray[$key] = $value;
 		asort($timearray, SORT_REGULAR);
 		$idc = 0;
-		$size = sizeof($timearray)
+		$size = sizeof($timearray);
 		foreach($timearray as $key => $value)
 		{
 			if($idc >= $size - 5){
